@@ -1,0 +1,19 @@
+.acw-ca-checkout-label {
+	display: block;
+	margin: 10px 0 5px 0;
+	font-weight: bold;
+}
+
+.acw-ca-shortcode-generator {
+    max-width: 15%;
+    float: left;
+}
+
+.acw-ca-shortcode-result {
+    max-width: 72%;
+    float: left;
+    margin-left: 3%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
