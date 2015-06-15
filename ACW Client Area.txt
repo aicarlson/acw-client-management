@@ -1,8 +1,7 @@
 ACW Client Area
 
 1.2
-
-	# Send Error Emails
+	# Pull down Plans from Stripe -- price, name and id -- Eliminate human error. 
 	# Integrate Webhooks
 
 1.3 
@@ -20,6 +19,6 @@ ACW Client Area
 
 2.0
 
-	Create and send invoices
+	# Create and send invoices
 
 	Pull amount from invoice #
